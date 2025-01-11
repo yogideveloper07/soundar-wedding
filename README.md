@@ -10,7 +10,7 @@
 ## Demo
 Kamu dapat mencoba undangan ini melalui link berikut.
 
-[https://ulems.my.id/?to=Teman%20teman%20semua](https://ulems.my.id/?to=Teman%20teman%20semua)
+[https://soundar-wedding-invitation/?to=Teman%20teman%20semua](https://soundar-wedding-invitation/?to=Teman%20teman%20semua)
 
 ## Documentation
 
