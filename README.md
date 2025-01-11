@@ -8,9 +8,9 @@
 [![GitHub License](https://img.shields.io/github/license/dewanakl/undangan?color=brightgreen)](https://shields.io)
 
 ## Demo
-Kamu dapat mencoba undangan ini melalui link berikut.
+Wedding-invitation.
 
-[https://ulems.my.id/?to=Teman%20teman%20semua](https://ulems.my.id/?to=Teman%20teman%20semua)
+[https://soundar-wedding](https://soundar-wedding-invitation)
 
 ## Documentation
 
