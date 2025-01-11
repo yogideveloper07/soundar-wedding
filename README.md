@@ -10,7 +10,7 @@
 ## Demo
 Kamu dapat mencoba undangan ini melalui link berikut.
 
-[https://ulems.my.id/soundhar](https://ulems.my.id/soundhar)
+[https://ulems.my.id](https://ulems.my.id)
 
 ## Documentation
 
